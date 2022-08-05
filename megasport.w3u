@@ -1,0 +1,83 @@
+{
+  "name": "Mega Sports TV (VPN) ",
+  "author": "Actualizada 14/05/2022",
+  "url": "https://w3ubin.com/hxwak5jIt.w3u",
+  "image": "https://i.imgur.com/NW9AUMM.png",
+  "imageScale": "",
+  "telegram": "listaswiseplay",
+  "info": "Lista Recopilatoria de web de deportes",
+  "groups": [
+    {
+      "name": "Importar Listas",
+      "image": "https://i.imgur.com/YAaMwxN.png",
+      "stations": [
+        {
+          "name": "Daddylive (VPN) | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/3xr7ZUFtE.w3u",
+          "import": true
+        },
+        {
+          "name": "GMRS | Importar lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/1wdwwiMA-.w3u",
+          "import": true
+        },
+        {
+          "name": "Live TV (VPN) | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/Jua1t6vaP.w3u",
+          "import": true
+        },
+        {
+          "name": "Sportzonline (VPN) | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/VB_GkrXiV.w3u",
+          "import": true
+        },
+        {
+          "name": "Sportkart1 (VPN) | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/A4rlUeuju.w3u",
+          "import": true
+        },
+        {
+          "name": "BDNewsZH | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/4ePBG2YCB.w3u",
+          "import": true
+        }
+      ]
+    },
+    {
+      "name": "Daddylive (VPN)",
+      "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+      "url": "https://w3ubin.com/3xr7ZUFtE.w3u"
+    },
+    {
+      "name": "GMRS",
+      "image": "https://sportscentral.io/avatars/2boyqZBrhfTkQOrX3D.jpg",
+      "url": "https://w3ubin.com/1wdwwiMA-.w3u"
+    },
+    {
+      "name": "Live TV (VPN)",
+      "image": "https://i.imgur.com/SCDvj3z.png",
+      "url": "https://w3ubin.com/Jua1t6vaP.w3u"
+    },
+    {
+      "name": "Sportkart1 (VPN)",
+      "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+      "url": "https://w3ubin.com/A4rlUeuju.w3u"
+    },
+    {
+      "name": "Sportzonline (VPN)",
+      "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+      "url": "https://w3ubin.com/VB_GkrXiV.w3u"
+    },
+    {
+      "name": "BDNewsZH",
+      "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+      "url": "https://w3ubin.com/4ePBG2YCB.w3u"
+    }
+  ]
+}
