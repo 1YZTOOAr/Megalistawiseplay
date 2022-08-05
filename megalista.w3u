@@ -1,8 +1,8 @@
 {
   "name": "MEGA LISTA WISEPLAY",
-  "author": "Staff Listaswiseplay - 14/05/22",
+  "author": "Staff Listaswiseplay - 05/08/22",
   "image": "https://i.imgur.com/ApcbwHZ.png",
-  "url": "https://w3ubin.com/mjidB8Tlm.w3u",
+  "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megalista.w3u",
   "telegram": "listaswiseplay",
   "info": "Listaswiseplay",
   "groups": [
@@ -13,19 +13,13 @@
         {
           "name": "MEGALISTA TV WISEPLAY | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://w3ubin.com/ZCdyai2si.w3u",
+          "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megalista_tv.w3u",
           "import": true
         },
         {
           "name": "MEGALISTA VOD WISEPLAY | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://w3ubin.com/nlmhDdnP4.w3u",
-          "import": true
-        },
-        {
-          "name": "RANKING 50 MEJORES LISTAS W3UBIN | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://w3ubin.com/pnVyPz28D.w3u",
+          "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megalista_vod.w3u",
           "import": true
         },
         {
@@ -37,19 +31,19 @@
         {
           "name": "CHUKY TV MIX | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://w3ubin.com/8kNMvr4lU.w3u",
+          "url": "enlace_chuky",
           "import": true
         },
         {
           "name": "MEGA SPORT TV (VPN) | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://w3ubin.com/hxwak5jIt.w3u",
+          "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport.w3u",
           "import": true
         },
         {
           "name": "WISEPLAY-SPORT BY ELSUPREMO | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://w3ubin.com/qN7YFbiXs.w3u",
+          "url": "enlace_supremo",
           "import": true
         },
         {
@@ -69,17 +63,12 @@
     {
       "name": "MEGALISTA TV WISEPLAY",
       "image": "https://i.imgur.com/L5RUMsy.png",
-      "url": "https://w3ubin.com/ZCdyai2si.w3u"
+      "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megalista_tv.w3u"
     },
     {
       "name": "MEGALISTA VOD WISEPLAY",
       "image": "https://i.imgur.com/RZuPfC0.png",
-      "url": "https://w3ubin.com/nlmhDdnP4.w3u"
-    },
-    {
-      "name": "RANKING 50 MEJORES LISTAS W3UBIN",
-      "image": "https://i.imgur.com/3h4oBmQ.png",
-      "url": "https://w3ubin.com/pnVyPz28D.w3u"
+      "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megalista_vod.w3u"
     },
     {
       "name": "💢 TIRISTAR KIDS edicion 💢",
@@ -89,17 +78,17 @@
     {
       "name": "CHUKY TV MIX",
       "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
-      "url": "https://w3ubin.com/8kNMvr4lU.w3u"
+      "url": "enlace_chuky"
     },
     {
       "name": "MEGA SPORT TV (VPN)",
       "image": "https://i.imgur.com/NW9AUMM.png",
-      "url": "https://w3ubin.com/hxwak5jIt.w3u"
+      "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport.w3u"
     },
     {
       "name": "WISEPLAY-SPORT BY ELSUPREMO",
       "image": "https://www.dropbox.com/s/znbssto0jqby1f7/thb.jpg?dl=1",
-      "url": "https://w3ubin.com/qN7YFbiXs.w3u"
+      "url": "enlace_supremo"
     },
     {
       "name": "TIRI_STAR TV SOLO WISE",
