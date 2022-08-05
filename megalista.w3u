@@ -1,0 +1,115 @@
+{
+  "name": "MEGA LISTA WISEPLAY",
+  "author": "Staff Listaswiseplay - 14/05/22",
+  "image": "https://i.imgur.com/ApcbwHZ.png",
+  "url": "https://w3ubin.com/mjidB8Tlm.w3u",
+  "telegram": "listaswiseplay",
+  "info": "Listaswiseplay",
+  "groups": [
+    {
+      "name": "Importar Listas",
+      "image": "https://i.imgur.com/YAaMwxN.png",
+      "stations": [
+        {
+          "name": "MEGALISTA TV WISEPLAY | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/ZCdyai2si.w3u",
+          "import": true
+        },
+        {
+          "name": "MEGALISTA VOD WISEPLAY | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/nlmhDdnP4.w3u",
+          "import": true
+        },
+        {
+          "name": "RANKING 50 MEJORES LISTAS W3UBIN | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/pnVyPz28D.w3u",
+          "import": true
+        },
+        {
+          "name": "💢 TIRISTAR KIDS edicion 💢 | Añadir Lista ",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRISTAR-KIDS%20EDICION.w3u",
+          "import": true
+        },
+        {
+          "name": "CHUKY TV MIX | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/8kNMvr4lU.w3u",
+          "import": true
+        },
+        {
+          "name": "MEGA SPORT TV (VPN) | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/hxwak5jIt.w3u",
+          "import": true
+        },
+        {
+          "name": "WISEPLAY-SPORT BY ELSUPREMO | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/qN7YFbiXs.w3u",
+          "import": true
+        },
+        {
+          "name": "TIRI_STAR TV SOLO WISE | Añadir Lista ",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
+          "import": true
+        },
+        {
+          "name": "TIRI MARRANO SOLO ADULTOS +18 M3U | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u",
+          "import": true
+        }
+      ]
+    },
+    {
+      "name": "MEGALISTA TV WISEPLAY",
+      "image": "https://i.imgur.com/L5RUMsy.png",
+      "url": "https://w3ubin.com/ZCdyai2si.w3u"
+    },
+    {
+      "name": "MEGALISTA VOD WISEPLAY",
+      "image": "https://i.imgur.com/RZuPfC0.png",
+      "url": "https://w3ubin.com/nlmhDdnP4.w3u"
+    },
+    {
+      "name": "RANKING 50 MEJORES LISTAS W3UBIN",
+      "image": "https://i.imgur.com/3h4oBmQ.png",
+      "url": "https://w3ubin.com/pnVyPz28D.w3u"
+    },
+    {
+      "name": "💢 TIRISTAR KIDS edicion 💢",
+      "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/list%20infantil.gif",
+      "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRISTAR-KIDS%20EDICION.w3u"
+    },
+    {
+      "name": "CHUKY TV MIX",
+      "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
+      "url": "https://w3ubin.com/8kNMvr4lU.w3u"
+    },
+    {
+      "name": "MEGA SPORT TV (VPN)",
+      "image": "https://i.imgur.com/NW9AUMM.png",
+      "url": "https://w3ubin.com/hxwak5jIt.w3u"
+    },
+    {
+      "name": "WISEPLAY-SPORT BY ELSUPREMO",
+      "image": "https://www.dropbox.com/s/znbssto0jqby1f7/thb.jpg?dl=1",
+      "url": "https://w3ubin.com/qN7YFbiXs.w3u"
+    },
+    {
+      "name": "TIRI_STAR TV SOLO WISE",
+      "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
+      "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u"
+    },
+    {
+      "name": "TIRI MARRANO SOLO ADULTOS +18 M3U",
+      "image": "https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1",
+      "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u"
+    }
+  ]
+}

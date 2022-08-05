@@ -1,0 +1,947 @@
+{
+  "name": "Sportkart1 TV (VPN)",
+  "author": "Actualizada 22/03/2022",
+  "url": "https://w3ubin.com/A4rlUeuju.w3u",
+  "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+  "imageScale": "",
+  "telegram": "listaswiseplay",
+  "info": "Enlaces directos de Sportkart1",
+  "groups": [
+    {
+      "name": "Importar Listas",
+      "image": "https://i.imgur.com/YAaMwxN.png",
+      "stations": [
+        {
+          "name": "Mega Lista Wiseplay | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/mjidB8Tlm.w3u",
+          "import": true
+        },
+        {
+          "name": "Mega Sport TV | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/hxwak5jIt.w3u",
+          "import": true
+        }
+      ]
+    },
+    {
+      "name": "Calendario",
+      "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
+      "stations": [
+        {
+          "name": "Calendario Sportkart1",
+          "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
+          "url": "https://sportkart1.xyz/embed/",
+          "embed": true
+        }
+      ]
+    },
+    {
+      "name": "Canales",
+      "image": "",
+      "stations": [
+        {
+          "name": "Canal 1",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-1.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 2",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-2.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 3",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-3.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 4",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-4.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 5",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-5.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 6",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-6.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 7",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-7.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 8",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-8.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 9",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-9.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 10",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-10.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 11",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-11.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 12",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-12.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 13",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-13.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 14",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-14.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 15",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-15.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 16",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-16.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 17",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-17.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 18",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-18.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 19",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-19.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 20",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-20.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 21",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-21.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 22",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-22.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 23",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-23.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 24",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-24.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 25",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-25.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 26",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-26.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 27",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-27.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 28",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-28.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 29",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-29.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 30",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-30.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 31",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-31.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 32",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-32.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 33",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-33.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 34",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-34.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 35",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-35.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 36",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-36.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 37",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-37.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 38",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-38.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 39",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-39.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 40",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-40.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 41",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-41.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 42",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-42.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 43",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-43.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 44",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-44.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 45",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-45.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 46",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-46.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 47",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-47.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 48",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-48.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 49",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-49.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 50",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-50.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 51",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-51.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 52",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-52.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 53",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-53.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 54",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-54.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 55",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-55.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 56",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-56.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 57",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-57.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 58",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-58.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 59",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-59.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 60",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-60.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 61",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-61.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 62",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-62.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 63",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-63.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 64",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-64.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 65",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-65.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 66",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-66.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 67",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-67.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 68",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-68.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 69",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-69.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 70",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-70.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 71",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-71.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 72",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-72.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 73",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-73.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 74",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-74.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 75",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-75.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 76",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-76.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 77",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-77.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 78",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-78.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 79",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-79.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 80",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-80.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 81",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-81.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 82",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-82.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 83",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-83.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 84",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-84.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 85",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-85.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 86",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-86.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 87",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-87.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 88",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-88.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 89",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-89.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 90",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-90.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 91",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-91.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 92",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-92.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 93",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-93.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 94",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-94.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 95",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-95.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 96",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-96.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 97",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-97.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 98",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-98.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 99",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-99.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 100",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-100.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 101",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-101.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 102",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-102.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 103",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-103.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 104",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-104.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 105",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-105.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 106",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-106.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 107",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-107.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 108",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-108.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 109",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-109.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 110",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-110.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 111",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-111.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 112",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-112.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 113",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-113.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 114",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-114.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 115",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-115.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 116",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-116.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 117",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-117.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 118",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-118.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 119",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-119.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 120",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-120.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 121",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-121.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 122",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-122.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 123",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-123.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 124",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-124.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 125",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-125.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 126",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-126.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 127",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-127.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 128",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-128.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 129",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-129.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 130",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-130.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 131",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-131.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 132",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-132.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 133",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-133.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 134",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-134.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 135",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-135.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 136",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-136.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 137",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-137.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 138",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-138.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 139",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-139.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 140",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-140.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 141",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-141.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 142",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-142.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 143",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-143.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 144",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-144.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 145",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-145.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 146",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-146.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 147",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-147.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 148",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-148.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 149",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-149.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 150",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://sportkart1.xyz/embed/scplayer-150.php?OPT:adaptive=1",
+          "isHost": true
+        }
+      ]
+    }
+  ]
+}

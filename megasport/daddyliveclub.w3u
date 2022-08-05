@@ -1,0 +1,767 @@
+{
+  "name": "Daddylive TV (VPN)",
+  "author": "Actualizada 14/05/2022",
+  "url": "https://w3ubin.com/3xr7ZUFtE.w3u",
+  "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+  "imageScale": "",
+  "telegram": "listaswiseplay",
+  "info": "Enlaces directos de Daddylive",
+  "groups": [
+    {
+      "name": "Importar Listas",
+      "image": "https://i.imgur.com/YAaMwxN.png",
+      "stations": [
+        {
+          "name": "Mega Lista Wiseplay | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/mjidB8Tlm.w3u",
+          "import": true
+        },
+        {
+          "name": "Mega Sport TV | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://w3ubin.com/hxwak5jIt.w3u",
+          "import": true
+        }
+      ]
+    },
+    {
+      "name": "Calendario",
+      "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
+      "stations": [
+        {
+          "name": "Calendario Daddylive",
+          "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
+          "url": "https://daddylive.nl/",
+          "embed": true
+        }
+      ]
+    },
+    {
+      "name": "Canales",
+      "image": "",
+      "stations": [
+        {
+          "name": "Canal 1",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-1.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 2",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-2.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 3",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-3.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 4",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-4.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 5",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-5.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 6",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-6.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 7",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-7.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 8",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-8.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 9",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-9.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 10",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-10.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 11",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-11.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 12",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-12.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 13",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-13.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 14",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-14.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 15",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-15.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 16",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-16.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 17",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-17.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 18",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-18.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 19",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-19.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 20",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-20.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 21",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-21.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 22",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-22.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 23",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-23.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 24",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-24.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 25",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-25.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 26",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-26.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 27",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-27.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 28",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-28.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 29",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-29.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 30",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-30.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 31",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-31.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 32",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-32.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 33",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-33.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 34",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-34.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 35",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-35.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 36",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-36.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 37",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-37.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 38",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-38.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 39",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-39.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 40",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-40.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 41",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-41.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 42",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-42.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 43",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-43.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 44",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-44.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 45",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-45.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 46",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-46.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 47",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-47.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 48",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-48.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 49",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-49.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 50",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-50.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 51",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-51.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 52",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-52.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 53",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-53.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 54",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-54.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 55",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-55.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 56",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-56.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 57",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-57.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 58",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-58.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 59",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-59.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 60",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-60.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 61",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-61.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 62",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-62.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 63",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-63.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 64",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-64.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 65",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-65.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 66",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-66.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 67",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-67.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 68",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-68.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 69",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-69.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 70",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-70.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 71",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-71.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 72",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-72.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 73",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-73.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 74",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-74.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 75",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-75.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 76",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-76.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 77",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-77.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 78",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-78.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 79",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-79.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 80",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-80.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 81",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-81.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 82",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-82.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 83",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-83.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 84",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-84.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 85",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-85.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 86",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-86.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 87",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-87.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 88",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-88.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 89",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-89.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 90",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-90.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 91",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-91.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 92",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-92.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 93",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-93.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 94",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-94.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 95",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-95.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 96",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-96.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 97",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-97.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 98",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-98.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 99",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-99.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 100",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-100.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 101",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-101.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 102",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-102.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 103",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-103.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 104",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-104.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 105",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-105.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 106",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-106.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 107",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-107.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 108",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-108.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 109",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-109.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 110",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-110.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 111",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-111.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 112",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-112.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 113",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-113.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 114",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-114.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 115",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-115.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 116",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-116.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 117",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-117.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 118",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-118.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 119",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-119.php?OPT:adaptive=1",
+          "isHost": true
+        },
+        {
+          "name": "Canal 120",
+          "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
+          "url": "https://daddylive.nl/stream/stream-120.php?OPT:adaptive=1",
+          "isHost": true
+        }
+      ]
+    }
+  ]
+}
