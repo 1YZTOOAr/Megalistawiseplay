@@ -1,6 +1,6 @@
 {
 	"name": "MEGA LISTA KID WISEPLAY",
-	"author": "Staff Listaswiseplay - 08/08/22",
+	"author": "Staff Listaswiseplay - 08/12/22",
 	"image": "https://i.imgur.com/HGXZ3Fu.png",
 	"url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megalista_kid.w3u",
 	"telegram": "listaswiseplay",
@@ -31,7 +31,7 @@
 				{
 					"name": "CHUKY TV MIX | Añadir Lista",
 					"image": "https://i.imgur.com/YAaMwxN.png",
-					"url": "http://w3ubin.com/8kNMvr4lU.w3u",
+					"url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
 					"import": true
 				},
 				{
@@ -43,7 +43,7 @@
 				{
 					"name": "WISEPLAY-SPORT BY ELSUPREMO | Añadir Lista",
 					"image": "https://i.imgur.com/YAaMwxN.png",
-					"url": "https://bit.ly/MandraWise",
+					"url": "https://bit.ly/WiseSportMenu",
 					"import": true
 				},
 				{
@@ -72,7 +72,7 @@
 		{
 			"name": "CHUKY TV MIX",
 			"image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
-			"url": "http://w3ubin.com/8kNMvr4lU.w3u"
+			"url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky"
 		},
 		{
 			"name": "MEGA SPORT TV (VPN)",
@@ -82,7 +82,7 @@
 		{
 			"name": "WISEPLAY-SPORT BY ELSUPREMO",
 			"image": "https://www.dropbox.com/s/znbssto0jqby1f7/thb.jpg?dl=1",
-			"url": "https://bit.ly/MandraWise"
+			"url": "https://bit.ly/WiseSportMenu"
 		},
 		{
 			"name": "TIRI_STAR TV SOLO WISE",
