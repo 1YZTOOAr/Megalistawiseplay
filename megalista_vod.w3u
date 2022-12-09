@@ -1,8 +1,8 @@
 {
    "name":"MEGA LISTA VOD WISEPLAY",
-   "author":"Staff Listaswiseplay - 22/03/22",
+   "author":"Staff Listaswiseplay - 09/12/22",
    "image":"https://i.imgur.com/RZuPfC0.png",
-   "url":"https://w3ubin.com/nlmhDdnP4.w3u",
+   "url":"https://megalistawiseplay.vercel.app/megalista_vod.w3u",
    "telegram":"listaswiseplay",
    "info":"Lista Wiseplay con Contenido VOD y Miscelánea",
    "groups":[
@@ -25,25 +25,25 @@
             {
                "name":" HispaKids - Hispared | Añadir Lista",
                "image":"https://i.imgur.com/YAaMwxN.png",
-               "url":"https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispakids.w3u",
+               "url":"https://hispared.vercel.app/Hispakids.w3u",
                "import":"true"
             },
             {
                "name":" Hispafilms - Hispared | Añadir Lista",
                "image":"https://i.imgur.com/YAaMwxN.png",
-               "url":"https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispapelis.w3u",
+               "url":"https://hispared.vercel.app/Hispapelis.w3u",
                "import":"true"
             },
             {
                "name":" Hispaseries - Hispared | Añadir Lista",
                "image":"https://i.imgur.com/YAaMwxN.png",
-               "url":"https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispaseries.w3u",
+               "url":"https://hispared.vercel.app/Hispaseries.w3u",
                "import":"true"
             },
             {
                "name":" La Macedonia - Hispared | Añadir Lista",
                "image":"https://i.imgur.com/YAaMwxN.png",
-               "url":"https://raw.githubusercontent.com/s4g3r4o/hispared/main/Macedonia.w3u",
+               "url":"https://hispared.vercel.app/Macedonia.w3u",
                "import":"true"
             },
             {
@@ -73,22 +73,22 @@
       {
          "name":" HispaKids - Hispared",
          "image":"https://i.imgur.com/L4gxUtr.gif",
-         "url":"https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispakids.w3u"
+         "url":"https://hispared.vercel.app/Hispakids.w3u"
       },
       {
          "name":" Hispafilms - Hispared",
          "image":"https://i.imgur.com/bR6vta5.gif",
-         "url":"https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispapelis.w3u"
+         "url":"https://hispared.vercel.app/Hispapelis.w3u"
       },
       {
          "name":" Hispaseries - Hispared",
          "image":"https://i.imgur.com/K47yYJQ.gif",
-         "url":"https://raw.githubusercontent.com/s4g3r4o/hispared/main/Hispaseries.w3u"
+         "url":"https://hispared.vercel.app/Hispaseries.w3u"
       },
       {
          "name":" La Macedonia - Hispared",
          "image":"https://i.imgur.com/s3de6g7.gif",
-         "url":"https://raw.githubusercontent.com/s4g3r4o/hispared/main/Macedonia.w3u"
+         "url":"https://hispared.vercel.app/Macedonia.w3u"
       },
       {
          "name":" ITALIAN-FILM - ElSupremo",
