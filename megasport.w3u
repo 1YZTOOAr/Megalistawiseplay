@@ -1,8 +1,8 @@
 {
   "name": "Mega Sports TV (VPN) ",
-  "author": "Actualizada 14/05/2022",
+  "author": "Actualizada 09/12/2022",
   "url": "https://w3ubin.com/hxwak5jIt.w3u",
-  "image": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport.w3u",
+  "image": "https://megalistawiseplay.vercel.app/megasport.w3u",
   "imageScale": "",
   "telegram": "listaswiseplay",
   "info": "Lista Recopilatoria de web de deportes",
@@ -14,37 +14,37 @@
         {
           "name": "Daddylive (VPN) | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/daddylive.w3u",
+          "url": "https://megalistawiseplay.vercel.app/megasport/daddylive.w3u",
           "import": true
         },
         {
           "name": "GMRS | Importar lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/gmrs.w3u",
+          "url": "https://megalistawiseplay.vercel.app/megasport/gmrs.w3u",
           "import": true
         },
         {
           "name": "Live TV (VPN) | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/livetv.w3u",
+          "url": "https://megalistawiseplay.vercel.app/megasport/livetv.w3u",
           "import": true
         },
         {
           "name": "Sportzonline (VPN) | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/sportzonline.w3u",
+          "url": "https://megalistawiseplay.vercel.app/megasport/sportzonline.w3u",
           "import": true
         },
         {
           "name": "Sportkart1 (VPN) | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/sportkart1.w3u",
+          "url": "https://megalistawiseplay.vercel.app/megasport/sportkart1.w3u",
           "import": true
         },
         {
           "name": "BDNewsZH | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/bdnewszh.w3u",
+          "url": "https://megalistawiseplay.vercel.app/megasport/bdnewszh.w3u",
           "import": true
         }
       ]
@@ -52,32 +52,32 @@
     {
       "name": "Daddylive (VPN)",
       "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-      "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/daddylive.w3u"
+      "url": "https://megalistawiseplay.vercel.app/megasport/daddylive.w3u"
     },
     {
       "name": "GMRS",
       "image": "https://sportscentral.io/avatars/2boyqZBrhfTkQOrX3D.jpg",
-      "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/gmrs.w3u"
+      "url": "https://megalistawiseplay.vercel.app/megasport/gmrs.w3u"
     },
     {
       "name": "Live TV (VPN)",
       "image": "https://i.imgur.com/SCDvj3z.png",
-      "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/livetv.w3u"
+      "url": "https://megalistawiseplay.vercel.app/megasport/livetv.w3u"
     },
     {
       "name": "Sportkart1 (VPN)",
       "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-      "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/sportkart1.w3u"
+      "url": "https://megalistawiseplay.vercel.app/megasport/sportkart1.w3u"
     },
     {
       "name": "Sportzonline (VPN)",
       "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-      "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/sportzonline.w3u"
+      "url": "https://megalistawiseplay.vercel.app/megasport/sportzonline.w3u"
     },
     {
       "name": "BDNewsZH",
       "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-      "url": "https://raw.githubusercontent.com/s4g3r4o/Megalistawiseplay/main/megasport/bdnewszh.w3u"
+      "url": "https://megalistawiseplay.vercel.app/megasport/bdnewszh.w3u"
     }
   ]
 }
