@@ -31,13 +31,13 @@
         {
           "name": "Plex TV - MJH | Añadir Lista ",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://w3ubin.com/SWsupL-r0.w3u",
+          "url": "https://megalistawiseplay.vercel.app/megalista_tv/plextv.w3u",
           "import": true
         },
         {
           "name": "Samsung TV Plus - MJH | Añadir Lista ",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://w3ubin.com/kzKhXrtmK.w3u",
+          "url": "https://megalistawiseplay.vercel.app/megalista_tv/samsungtvplus.w3u",
           "import": true
         },
         {
@@ -72,12 +72,12 @@
     {
       "name": "Plex TV - MJH",
       "image": "https://i.imgur.com/lUhZfxS.png",
-      "url": "https://w3ubin.com/SWsupL-r0.w3u"
+      "url": "https://megalistawiseplay.vercel.app/megalista_tv/plextv.w3u"
     },
     {
       "name": "Samsung TV Plus - MJH",
       "image": "https://i.imgur.com/yBJOxBd.jpg",
-      "url": "https://w3ubin.com/kzKhXrtmK.w3u"
+      "url": "https://megalistawiseplay.vercel.app/megalista_tv/samsungtvplus.w3u"
     },
     {
       "name": "Rakuten TV - HL",
