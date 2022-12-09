@@ -45,7 +45,7 @@
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u",
           "import": true
-        }
+        },
         {
           "name": "RadTV - HL | Añadir Lista ",
           "image": "https://i.imgur.com/YAaMwxN.png",
@@ -83,7 +83,7 @@
       "name": "Rakuten TV - HL",
       "image": "https://helmerluzo.github.io/RakutenTV_HL/rakuten.png",
       "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u"
-    }
+    },
     {
       "name": "RadTV - HL",
       "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
