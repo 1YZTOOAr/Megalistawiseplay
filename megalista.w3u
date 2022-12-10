@@ -1,6 +1,6 @@
 {
   "name": "MEGA LISTA WISEPLAY",
-  "author": "Staff Listaswiseplay - 08/12/22",
+  "author": "Staff Listaswiseplay - 10/12/22",
   "image": "https://i.imgur.com/ApcbwHZ.png",
   "url": "https://megalistawiseplay.vercel.app/megalista.w3u",
   "telegram": "listaswiseplay",
@@ -51,12 +51,6 @@
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
           "import": true
-        },
-        {
-          "name": "TIRI MARRANO SOLO ADULTOS +18 M3U | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u",
-          "import": true
         }
       ]
     },
@@ -94,11 +88,6 @@
       "name": "TIRI_STAR TV SOLO WISE",
       "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
       "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u"
-    },
-    {
-      "name": "TIRI MARRANO SOLO ADULTOS +18 M3U",
-      "image": "https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1",
-      "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u"
     }
   ]
 }
