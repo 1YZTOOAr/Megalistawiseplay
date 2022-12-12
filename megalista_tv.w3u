@@ -1,6 +1,6 @@
 {
   "name": "MEGA LISTA TV WISEPLAY",
-  "author": "Staff Listaswiseplay - 09/12/22",
+  "author": "Staff Listaswiseplay - 13/12/22",
   "image": "https://i.imgur.com/L5RUMsy.png",
   "url": "https://megalistawiseplay.vercel.app/megalista_tv.w3u",
   "telegram": "listaswiseplay",
@@ -51,6 +51,12 @@
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u",
           "import": true
+        },
+        {
+          "name": "CanelaTV - HL | Añadir Lista ",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u",
+          "import": true
         }
       ]
     },
@@ -88,6 +94,11 @@
       "name": "RadTV - HL",
       "image": "https://helmerluzo.github.io/RadTV_HL/rad.png",
       "url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u"
+    },
+    {
+      "name": "CanelaTV - HL",
+      "image": "https://helmerluzo.github.io/CanelaTV_HL/canela.png",
+      "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u"
     }
   ]
 }
