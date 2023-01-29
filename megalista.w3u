@@ -1,6 +1,6 @@
 {
   "name": "MEGA LISTA WISEPLAY",
-  "author": "Staff Listaswiseplay - 12/12/22",
+  "author": "Staff Listaswiseplay - 29/01/2023",
   "image": "https://i.imgur.com/ApcbwHZ.png",
   "url": "https://megalistawiseplay.vercel.app/megalista.w3u",
   "telegram": "listaswiseplay",
@@ -23,15 +23,9 @@
           "import": true
         },
         {
-          "name": "💢 TIRISTAR KIDS edicion 💢 | Añadir Lista ",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRISTAR-KIDS%20EDICION.w3u",
-          "import": true
-        },
-        {
           "name": "CHUKY TV MIX | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://chykydeport.vercel.app/chuky",
+          "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
           "import": true
         },
         {
@@ -47,7 +41,7 @@
           "import": true
         },
         {
-          "name": "TIRI_STAR TV SOLO WISE | Añadir Lista ",
+          "name": "TIRISTAR TV JUVENIL | Añadir Lista ",
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
           "import": true
@@ -65,14 +59,9 @@
       "url": "https://megalistawiseplay.vercel.app/megalista_vod.w3u"
     },
     {
-      "name": "💢 TIRISTAR KIDS edicion 💢",
-      "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/list%20infantil.gif",
-      "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRISTAR-KIDS%20EDICION.w3u"
-    },
-    {
       "name": "CHUKY TV MIX",
       "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
-      "url": "https://chykydeport.vercel.app/chuky"
+      "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky"
     },
     {
       "name": "MEGA SPORT TV (VPN)",
@@ -85,7 +74,7 @@
       "url": "https://bit.ly/WiseHouse"
     },
     {
-      "name": "TIRI_STAR TV SOLO WISE",
+      "name": "TIRISTAR TV JUVENIL",
       "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
       "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u"
     }
