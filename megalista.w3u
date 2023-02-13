@@ -23,7 +23,7 @@
           "import": true
         },
         {
-          "name": "CHUKY TV MIX | Añadir Lista",
+          "name": "CHUKY DEPORT MIX 05| Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://chykydeport-05.vercel.app/chuky",
           "import": true
@@ -59,7 +59,7 @@
       "url": "https://megalistawiseplay.vercel.app/megalista_vod.w3u"
     },
     {
-      "name": "CHUKY TV MIX",
+      "name": "CHUKY DEPORT MIX 05",
       "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
       "url": "https://chykydeport-05.vercel.app/chuky"
     },
