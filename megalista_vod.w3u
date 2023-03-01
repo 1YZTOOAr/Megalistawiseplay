@@ -1,6 +1,6 @@
 {
    "name":"MEGA LISTA VOD WISEPLAY",
-   "author":"Staff Listaswiseplay - 14/12/22",
+   "author":"Staff Listaswiseplay - 01/03/22",
    "image":"https://i.imgur.com/RZuPfC0.png",
    "url":"https://megalistawiseplay.vercel.app/megalista_vod.w3u",
    "telegram":"listaswiseplay",
@@ -13,7 +13,7 @@
             {
                "name":"CHUKY-CINE Y SERIES | Añadir Lista",
                "image":"https://i.imgur.com/YAaMwxN.png",
-               "url":"https://pastebin.com/CuJ8H9wi",
+               "url":"https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
                "import":"true"
             },
             {
@@ -63,7 +63,7 @@
       {
          "name":"CHUKY-CINE Y SERIES",
          "image":"https://i.imgur.com/73g17x0.jpg",
-         "url":"https://pastebin.com/CuJ8H9wi"
+         "url":"https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
       },
       {
          "name":"💢 TIRISTAR VOD 💢",
