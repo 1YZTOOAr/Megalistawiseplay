@@ -1,6 +1,6 @@
 {
   "name": "MEGA LISTA WISEPLAY",
-  "author": "Staff Listaswiseplay - 19/03/2023",
+  "author": "Staff Listaswiseplay - 22/03/2023",
   "image": "https://i.imgur.com/ApcbwHZ.png",
   "url": "https://megalistawiseplay.vercel.app/megalista.w3u",
   "telegram": "listaswiseplay",
@@ -20,6 +20,12 @@
           "name": "MEGALISTA VOD WISEPLAY | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://megalistawiseplay.vercel.app/megalista_vod.w3u",
+          "import": true
+        },
+        {
+          "name": "MEGA LISTA ZERONET | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://megalistawiseplay.vercel.app/megalista_zeronet.w3u",
           "import": true
         },
         {
@@ -63,6 +69,11 @@
       "name": "MEGALISTA VOD WISEPLAY",
       "image": "https://i.imgur.com/RZuPfC0.png",
       "url": "https://megalistawiseplay.vercel.app/megalista_vod.w3u"
+    },
+    {
+      "name": "MEGA LISTA ZERONET",
+      "image": "https://i.imgur.com/3IwhWdp.png",
+      "url": "https://megalistawiseplay.vercel.app/megalista_zeronet.w3u"
     },
     {
       "name": "CHUKY DEPORT MIX 05",
