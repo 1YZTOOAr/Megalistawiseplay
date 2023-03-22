@@ -18,13 +18,13 @@
         },
         {
           "name": "Acestream Electroperra Lista 1 [Zeronet] | Importar Lista",
-          "image": "https://i.imgur.com/3IwhWdp.png",
+          "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "http://127.0.0.1:43110/1EoakGCUsHZrjMe9V86PBktkzn8T7LK2rG/lista1.m3u",
           "import": true
         },
         {
           "name": "Acestream Electroperra Lista 3 [Zeronet] | Importar Lista",
-          "image": "https://i.imgur.com/3IwhWdp.png",
+          "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "http://127.0.0.1:43110/1EoakGCUsHZrjMe9V86PBktkzn8T7LK2rG/channels.txt",
           "import": true
         },
