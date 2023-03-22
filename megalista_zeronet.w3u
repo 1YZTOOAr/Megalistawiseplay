@@ -11,15 +11,27 @@
       "image": "https://i.imgur.com/YAaMwxN.png",
       "stations": [
         {
-          "name": "Acestream Lista 1 [Zeronet] | Añadir Lista",
+          "name": "Acestream Anonimo [Zeronet] | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista1.m3u",
           "import": true
         },
         {
-          "name": "Acestream Lista 2 [Zeronet] | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
+          "name": "Acestream Electroperra Lista 1 [Zeronet] | Importar Lista",
+          "image": "https://i.imgur.com/3IwhWdp.png",
+          "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista1.m3u",
+          "import": true
+        },
+        {
+          "name": "Acestream Electroperra Lista 2 [Zeronet] | Importar Lista",
+          "image": "https://i.imgur.com/3IwhWdp.png",
           "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista2.m3u",
+          "import": true
+        },
+        {
+          "name": "Acestream Electroperra Lista 3 [Zeronet] | Importar Lista",
+          "image": "https://i.imgur.com/3IwhWdp.png",
+          "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista1.m3u",
           "import": true
         },
         {
@@ -28,23 +40,36 @@
           "url": "http://127.0.0.1:43110/13aNmBWAkWzaXT1Hva4B9kpJW1nWFjFF4X/Lista%20acestream.m3u",
           "import": true
         }
+
       ]
     },
     {
-      "name": "Abrir",
+      "name": "Sincronizar (Android Movil)",
       "image": "https://i.imgur.com/YAaMwxN.png",
       "stations": [
         {
-          "name": "Acestream Lista 1 [Zeronet] | Abrir",
+          "name": "Acestream Anonimo [Zeronet] | Abrir",
           "image": "https://i.imgur.com/3IwhWdp.png",
           "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista1.m3u",
           "embed": true
         },
         {
-          "name": "Acestream Lista 2 [Zeronet] | Abrir",
+          "name": "Acestream Electroperra Lista 1 [Zeronet] | Importar Lista",
+          "image": "https://i.imgur.com/3IwhWdp.png",
+          "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista1.m3u",
+          "import": true
+        },
+        {
+          "name": "Acestream Electroperra Lista 2 [Zeronet] | Importar Lista",
           "image": "https://i.imgur.com/3IwhWdp.png",
           "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista2.m3u",
-          "embed": true
+          "import": true
+        },
+        {
+          "name": "Acestream Electroperra Lista 3 [Zeronet] | Importar Lista",
+          "image": "https://i.imgur.com/3IwhWdp.png",
+          "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista1.m3u",
+          "import": true
         },
         {
           "name": "Acestream Ramses [Zeronet] | Abrir",
@@ -55,12 +80,17 @@
       ]
     },
     {
-      "name": "Acestream Lista 1 [Zeronet]",
+      "name": "Acestream Anonimo [Zeronet]",
       "image": "https://i.imgur.com/3IwhWdp.png",
       "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista1.m3u"
     },
     {
-      "name": "Acestream Lista 2 [Zeronet]",
+      "name": "Acestream Electroperra Lista 1 [Zeronet]",
+      "image": "https://i.imgur.com/3IwhWdp.png",
+      "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista1.m3u"
+    },
+    {
+      "name": "Acestream Electroperra Lista 3 [Zeronet]",
       "image": "https://i.imgur.com/3IwhWdp.png",
       "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista2.m3u"
     },
