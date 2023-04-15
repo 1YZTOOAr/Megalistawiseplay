@@ -1,6 +1,6 @@
 {
   "name": "MEGA LISTA WISEPLAY",
-  "author": "Staff Listaswiseplay - 22/03/2023",
+  "author": "Staff Listaswiseplay - 15/04/2023",
   "image": "https://i.imgur.com/ApcbwHZ.png",
   "url": "https://megalistawiseplay.vercel.app/megalista.w3u",
   "telegram": "listaswiseplay",
@@ -31,7 +31,7 @@
         {
           "name": "CHUKY DEPORT MIX 05| Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://chykydeport-05.vercel.app/chuky",
+          "url": "https://paste.tc/raw/lista-chukyhood",
           "import": true
         },
         {
@@ -78,7 +78,7 @@
     {
       "name": "CHUKY DEPORT MIX 05",
       "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
-      "url": "https://chykydeport-05.vercel.app/chuky"
+      "url": "https://paste.tc/raw/lista-chukyhood"
     },
     {
       "name": "MEGA SPORT TV (VPN)",
