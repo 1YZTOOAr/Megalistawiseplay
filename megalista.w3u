@@ -31,7 +31,7 @@
         {
           "name": "CHUKY DEPORT MIX 05| Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://paste.tc/raw/lista-chukyhood",
+          "url": "https://raw.githubusercontent.com/chukyvaliente/deporteschuky/main/chukydep",
           "import": true
         },
         {
@@ -84,7 +84,7 @@
     {
       "name": "CHUKY DEPORT MIX 05",
       "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
-      "url": "https://paste.tc/raw/lista-chukyhood"
+      "url": "https://raw.githubusercontent.com/chukyvaliente/deporteschuky/main/chukydep"
     },
     {
       "name": "MEGA SPORT TV (VPN)",
