@@ -1,6 +1,6 @@
 {
   "name": "MEGA LISTA WISEPLAY",
-  "author": "Staff Listaswiseplay - 04/05/2023",
+  "author": "Staff Listaswiseplay - 06/05/2023",
   "image": "https://i.imgur.com/ApcbwHZ.png",
   "url": "https://megalistawiseplay.vercel.app/megalista.w3u",
   "telegram": "listaswiseplay",
@@ -29,7 +29,7 @@
           "import": true
         },
         {
-          "name": "CHUKY DEPORT MIX 05| Añadir Lista",
+          "name": "CHUKYHOOD | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://raw.githubusercontent.com/chukyvaliente/deporteschuky/main/chukydep",
           "import": true
@@ -82,8 +82,8 @@
       "url": "https://megalistawiseplay.vercel.app/megalista_zeronet.w3u"
     },
     {
-      "name": "CHUKY DEPORT MIX 05",
-      "image": "https://media.giphy.com/media/giv0BXaL5cLOA8jmhp/giphy.gif",
+      "name": "CHUKYHOOD",
+      "image": "https://i.imgur.com/AyAdJAl.png",
       "url": "https://raw.githubusercontent.com/chukyvaliente/deporteschuky/main/chukydep"
     },
     {
