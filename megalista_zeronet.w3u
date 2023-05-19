@@ -56,47 +56,47 @@
     },
     {
       "name": "Sincronizar Primero (Android Movil)",
-      "image": "https://i.imgur.com/3IwhWdp.png",
+      "image": "https://i.imgur.com/22uinxL.png",
       "stations": [
         {
           "name": "Acestream Anonimo 1 [Zeronet] ",
-          "image": "https://i.imgur.com/3IwhWdp.png",
+          "image": "https://i.imgur.com/22uinxL.png",
           "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista1.m3u",
           "embed": true
         },
         {
           "name": "Acestream Anonimo 2 [Zeronet] ",
-          "image": "https://i.imgur.com/3IwhWdp.png",
+          "image": "https://i.imgur.com/22uinxL.png",
           "url": "http://127.0.0.1:43110/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista2.m3u",
           "embed": true
         },
         {
           "name": "Acestream Electroperra Lista 1 [Zeronet] | embedar Lista",
-          "image": "https://i.imgur.com/3IwhWdp.png",
+          "image": "https://i.imgur.com/22uinxL.png",
           "url": "http://127.0.0.1:43110/1EoakGCUsHZrjMe9V86PBktkzn8T7LK2rG/lista1.m3u",
           "embed": true
         },
         {
           "name": "Acestream Electroperra Lista 2 [Zeronet] | embedar Lista",
-          "image": "https://i.imgur.com/3IwhWdp.png",
+          "image": "https://i.imgur.com/22uinxL.png",
           "url": "http://127.0.0.1:43110/1EoakGCUsHZrjMe9V86PBktkzn8T7LK2rG/lista2.m3u",
           "embed": true
         },
         {
           "name": "Acestream Ramses [Zeronet] ",
-          "image": "https://i.imgur.com/3IwhWdp.png",
+          "image": "https://i.imgur.com/22uinxL.png",
           "url": "http://127.0.0.1:43110/13aNmBWAkWzaXT1Hva4B9kpJW1nWFjFF4X/Lista%20acestream.m3u",
           "embed": true
         },
         {
           "name": "Acestream ElCano 1 [Zeronet] ",
-          "image": "https://i.imgur.com/3IwhWdp.png",
+          "image": "https://i.imgur.com/22uinxL.png",
           "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream.listaa.m3u",
           "embed": true
         },
         {
           "name": "Acestream ElCano 2 [Zeronet] ",
-          "image": "https://i.imgur.com/3IwhWdp.png",
+          "image": "https://i.imgur.com/22uinxL.png",
           "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream.listai.m3u",
           "embed": true
         }
