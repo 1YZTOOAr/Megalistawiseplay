@@ -59,9 +59,15 @@
           "import": true
         },
         {
-          "name": "El Barco [Acestream] | Añadir Lista",
+          "name": "El Cano 1 [Acestream] | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/KevinMcfly/AC-iptv/main/IPTV%20Acestream%20actu.m3u",
+          "url": "https://listadelacompra.vercel.app/listaa.m3u",
+          "import": true
+        },
+        {
+          "name": "El Cano 2 [Acestream] | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://listadelacompra.vercel.app/listai.m3u",
           "import": true
         }
       ]
@@ -107,9 +113,14 @@
       "url": "https://af-1-cionados.vercel.app/af1cionados.w3u"
     },
     {
-      "name": "El Barco [Acestream]",
+      "name": "El Cano 1 [Acestream] | Añadir Lista",
       "image": "https://i.imgur.com/Eg5iqZC.png",
-      "url": "https://raw.githubusercontent.com/KevinMcfly/AC-iptv/main/IPTV%20Acestream%20actu.m3u"
+      "url": "https://listadelacompra.vercel.app/listaa.m3u"
+    },
+    {
+      "name": "El Cano 2 [Acestream] | Añadir Lista",
+      "image": "https://i.imgur.com/Eg5iqZC.png",
+      "url": "https://listadelacompra.vercel.app/listai.m3u"
     }
   ]
 }
