@@ -1,6 +1,6 @@
 {
   "name": "MEGA LISTA WISEPLAY",
-  "author": "Staff Listaswiseplay - 22/06/2023",
+  "author": "Staff Listaswiseplay - 27/06/2023",
   "image": "https://i.imgur.com/ApcbwHZ.png",
   "url": "https://megalistawiseplay.vercel.app/megalista.w3u",
   "telegram": "listaswiseplay",
@@ -59,15 +59,15 @@
           "import": true
         },
         {
-          "name": "El Cano 1 [Acestream] | Añadir Lista",
+          "name": "El Cano Zeronet [Acestream] | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "hhttps://raw.githubusercontent.com/yonohesido123/listadelacompra/main/listaa.m3u",
+          "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/listaa.m3u",
           "import": true
         },
         {
-          "name": "El Cano 2 [Acestream] | Añadir Lista",
+          "name": "El Cano Zeronet [HTTP] | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://raw.githubusercontent.com/yonohesido123/listadelacompra/main/listai.m3u",
+          "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/listai.m3u",
           "import": true
         }
       ]
@@ -113,14 +113,14 @@
       "url": "https://af-1-cionados.vercel.app/af1cionados.w3u"
     },
     {
-      "name": "El Cano 1 [Acestream]",
+      "name": "El Cano Zeronet [Acestream]",
       "image": "https://i.imgur.com/Eg5iqZC.png",
-      "url": "https://raw.githubusercontent.com/yonohesido123/listadelacompra/main/listaa.m3u"
+      "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/listaa.m3u"
     },
     {
-      "name": "El Cano 2 [Acestream]",
+      "name": "El Cano Zeronet [HTTP]",
       "image": "https://i.imgur.com/Eg5iqZC.png",
-      "url": "https://raw.githubusercontent.com/yonohesido123/listadelacompra/main/listai.m3u"
+      "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/listai.m3u"
     }
   ]
 }
