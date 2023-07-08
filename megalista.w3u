@@ -1,6 +1,6 @@
 {
   "name": "MEGA LISTA WISEPLAY",
-  "author": "Staff Listaswiseplay - 01/07/2023",
+  "author": "Staff Listaswiseplay - 08/07/2023",
   "image": "https://i.imgur.com/ApcbwHZ.png",
   "url": "https://megalistawiseplay.vercel.app/megalista.w3u",
   "telegram": "listaswiseplay",
@@ -61,13 +61,13 @@
         {
           "name": "El Cano Zeronet [Acestream] | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzFZWlRPT0FyL3JlcG8vbWFpbi9iYXNlLnR4dA%3D%3D&hl=248",
+          "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9mbmkzbWRtc2U3N2JrdXI1ZXEycDVmN2t0LnZlcmNlbC5hcHAvYmFzZS50eHQ%3D&hl=248",
           "import": true
         },
         {
           "name": "El Cano Zeronet [HTTP] | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzFZWlRPT0FyL3JlcG8vbWFpbi9nZXQudHh0&hl=248",
+          "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9mbmkzbWRtc2U3N2JrdXI1ZXEycDVmN2t0LnZlcmNlbC5hcHAvZ2V0LnR4dA%3D%3D&hl=248",
           "import": true
         }
       ]
@@ -115,12 +115,12 @@
     {
       "name": "El Cano Zeronet [Acestream]",
       "image": "https://i.imgur.com/Eg5iqZC.png",
-      "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzFZWlRPT0FyL3JlcG8vbWFpbi9iYXNlLnR4dA%3D%3D&hl=248"
+      "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9mbmkzbWRtc2U3N2JrdXI1ZXEycDVmN2t0LnZlcmNlbC5hcHAvYmFzZS50eHQ%3D&hl=248"
     },
     {
       "name": "El Cano Zeronet [HTTP]",
       "image": "https://i.imgur.com/Eg5iqZC.png",
-      "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzFZWlRPT0FyL3JlcG8vbWFpbi9nZXQudHh0&hl=248"
+      "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9mbmkzbWRtc2U3N2JrdXI1ZXEycDVmN2t0LnZlcmNlbC5hcHAvZ2V0LnR4dA%3D%3D&hl=248"
     }
   ]
 }
