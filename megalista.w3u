@@ -59,13 +59,13 @@
           "import": true
         },
         {
-          "name": "El Cano Zeronet [Acestream] | Añadir Lista",
+          "name": "El Cano [Acestream] | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9mbmkzbWRtc2U3N2JrdXI1ZXEycDVmN2t0LnZlcmNlbC5hcHAvYmFzZS50eHQ%3D&hl=248",
           "import": true
         },
         {
-          "name": "El Cano Zeronet [HTTP] | Añadir Lista",
+          "name": "El Cano [HTTP] | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9mbmkzbWRtc2U3N2JrdXI1ZXEycDVmN2t0LnZlcmNlbC5hcHAvZ2V0LnR4dA%3D%3D&hl=248",
           "import": true
@@ -113,12 +113,12 @@
       "url": "https://af-1-cionados.vercel.app/af1cionados.w3u"
     },
     {
-      "name": "El Cano Zeronet [Acestream]",
+      "name": "El Cano [Acestream]",
       "image": "https://i.imgur.com/Eg5iqZC.png",
       "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9mbmkzbWRtc2U3N2JrdXI1ZXEycDVmN2t0LnZlcmNlbC5hcHAvYmFzZS50eHQ%3D&hl=248"
     },
     {
-      "name": "El Cano Zeronet [HTTP]",
+      "name": "El Cano [HTTP]",
       "image": "https://i.imgur.com/Eg5iqZC.png",
       "url": "http://duckproxy.com/indexa.php?q=aHR0cHM6Ly9mbmkzbWRtc2U3N2JrdXI1ZXEycDVmN2t0LnZlcmNlbC5hcHAvZ2V0LnR4dA%3D%3D&hl=248"
     }
