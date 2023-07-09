@@ -1,6 +1,6 @@
 {
    "name":"MEGA LISTA VOD WISEPLAY",
-   "author":"Staff Listaswiseplay - 01/03/22",
+   "author":"Staff Listaswiseplay - 09/07/23",
    "image":"https://i.imgur.com/RZuPfC0.png",
    "url":"https://megalistawiseplay.vercel.app/megalista_vod.w3u",
    "telegram":"listaswiseplay",
@@ -21,31 +21,7 @@
                "image":"https://i.imgur.com/YAaMwxN.png",
                "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_vod.w3u",
                "import":"true"
-            },
-            {
-               "name":" HispaKids - Hispared | Añadir Lista",
-               "image":"https://i.imgur.com/YAaMwxN.png",
-               "url":"https://www.dropbox.com/s/1wxmsh5t93ql7ci/Hispakids%203.w3u?dl=1",
-               "import":"true"
-            },
-            {
-               "name":" Hispafilms - Hispared | Añadir Lista",
-               "image":"https://i.imgur.com/YAaMwxN.png",
-               "url":"https://www.dropbox.com/s/5oi9pi16kkou8gn/Hispapelis%203.w3u?dl=1",
-               "import":"true"
-            },
-            {
-               "name":" Hispaseries - Hispared | Añadir Lista",
-               "image":"https://i.imgur.com/YAaMwxN.png",
-               "url":"https://www.dropbox.com/s/wz5t39lmamge01t/Hispaseriesred3.w3u?dl=1",
-               "import":"true"
-            },
-            {
-               "name":" La Macedonia - Hispared | Añadir Lista",
-               "image":"https://i.imgur.com/YAaMwxN.png",
-               "url":"https://www.dropbox.com/s/rlff0digjyngc1c/Macedonia%20list3.w3u?dl=1",
-               "import":"true"
-            },
+            },            
             {
                "name":" ITALIAN-FILM - ElSupremo | Añadir Lista",
                "image":"https://i.imgur.com/YAaMwxN.png",
@@ -69,26 +45,6 @@
          "name":"💢 TIRISTAR VOD 💢",
          "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/list%20infantil.gif",
          "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_vod.w3u"
-      },
-      {
-         "name":" HispaKids - Hispared",
-         "image":"https://i.imgur.com/L4gxUtr.gif",
-         "url":"https://www.dropbox.com/s/1wxmsh5t93ql7ci/Hispakids%203.w3u?dl=1"
-      },
-      {
-         "name":" Hispafilms - Hispared",
-         "image":"https://i.imgur.com/bR6vta5.gif",
-         "url":"https://www.dropbox.com/s/5oi9pi16kkou8gn/Hispapelis%203.w3u?dl=1"
-      },
-      {
-         "name":" Hispaseries - Hispared",
-         "image":"https://i.imgur.com/K47yYJQ.gif",
-         "url":"https://www.dropbox.com/s/wz5t39lmamge01t/Hispaseriesred3.w3u?dl=1"
-      },
-      {
-         "name":" La Macedonia - Hispared",
-         "image":"https://i.imgur.com/s3de6g7.gif",
-         "url":"https://www.dropbox.com/s/rlff0digjyngc1c/Macedonia%20list3.w3u?dl=1"
       },
       {
          "name":" ITALIAN-FILM - ElSupremo",
