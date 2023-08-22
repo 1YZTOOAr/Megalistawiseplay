@@ -1,6 +1,6 @@
 {
   "name": "MEGA LISTA ZERONET",
-  "author": "Acestream Spanish - 12/08/2023",
+  "author": "Acestream Spanish - 22/08/2023",
   "image": "https://i.imgur.com/3IwhWdp.png",
   "url": "https://megalistawiseplay.vercel.app/megalista_zeronet.w3u",
   "telegram": "",
@@ -73,13 +73,13 @@
         {
           "name": "Acestream ElCano 1 [Zeronet] | Importar Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/listaa.m3u",
+          "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/base.txt",
           "import": true
         },
         {
           "name": "Acestream ElCano 2 [Zeronet] | Importar Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/listai.m3u",
+          "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/get.txt",
           "import": true
         }
       ]
@@ -151,13 +151,13 @@
         {
           "name": "Acestream ElCano 1 [Zeronet] | Abrir Navegador",
           "image": "https://i.imgur.com/9KXmBKo.png",
-          "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/listaa.m3u",
+          "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/base.txt",
           "embed": true
         },
         {
           "name": "Acestream ElCano 2 [Zeronet] | Abrir Navegador",
           "image": "https://i.imgur.com/9KXmBKo.png",
-          "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/listai.m3u",
+          "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/get.txt",
           "embed": true
         }
       ]
@@ -210,12 +210,12 @@
     {
       "name": "Acestream ElCano 1 [Zeronet] ",
       "image": "https://i.imgur.com/3IwhWdp.png",
-      "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/listaa.m3u"
+      "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/base.txt"
     },
     {
       "name": "Acestream ElCano 2 [Zeronet] ",
       "image": "https://i.imgur.com/3IwhWdp.png",
-      "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/listai.m3u"
+      "url": "http://127.0.0.1:43110/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/get.txt"
     }
   ]
 }
