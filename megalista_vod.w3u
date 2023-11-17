@@ -1,6 +1,6 @@
 {
    "name":"MEGA LISTA VOD WISEPLAY",
-   "author":"Staff Listaswiseplay - 09/07/23",
+   "author":"Staff Listaswiseplay - 17/11/23",
    "image":"https://i.imgur.com/RZuPfC0.png",
    "url":"https://megalistawiseplay.vercel.app/megalista_vod.w3u",
    "telegram":"listaswiseplay",
@@ -19,7 +19,7 @@
             {
                "name":"💢 TIRISTAR VOD 💢 | Añadir Lista ",
                "image":"https://i.imgur.com/YAaMwxN.png",
-               "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_vod.w3u",
+               "url":"https://github.com/tirimosqui2/varios/raw/main/TIRI_vod.json",
                "import":"true"
             },            
             {
@@ -43,8 +43,8 @@
       },
       {
          "name":"💢 TIRISTAR VOD 💢",
-         "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/list%20infantil.gif",
-         "url":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_vod.w3u"
+         "image":"https://github.com/tirimosqui2/varios/raw/main/logo%20tiri.mp4",
+         "url":"https://github.com/tirimosqui2/varios/raw/main/TIRI_vod.json"
       },
       {
          "name":" ITALIAN-FILM - ElSupremo",
