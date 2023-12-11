@@ -1,6 +1,6 @@
 {
   "name": "Sportzonline TV",
-  "author": "Actualizada 10/08/2023",
+  "author": "Actualizada 11/12/2023",
   "url": "https://w3ubin.com/IRibwrbHZ.w3u",
   "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
   "imageScale": "",
@@ -32,7 +32,7 @@
         {
           "name": "Calendario Sportzonline",
           "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
-          "url": "https://sportsonline.gl/prog.txt",
+          "url": "https://sportsonline.so/prog.txt",
           "embed": true
         }
       ]
@@ -44,109 +44,109 @@
         {
           "name": "Canal BR 1",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/bra/br1.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/bra/br1.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Canal BR 2",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/bra/br2.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/bra/br2.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Canal BR 3",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/bra/br3.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/bra/br3.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Canal BR 4",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/bra/br4.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/bra/br4.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Canal HD 1",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/hd/hd1.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/hd/hd1.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Canal HD 2",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/hd/hd2.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/hd/hd2.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Canal HD 3",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/hd/hd3.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/hd/hd3.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Canal HD 4",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/hd/hd4.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/hd/hd4.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Canal HD 5",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/hd/hd5.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/hd/hd5.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Canal HD 6",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/hd/hd6.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/hd/hd6.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Canal HD 7",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/hd/hd7.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/hd/hd7.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Canal HD 8",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/hd/hd8.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/hd/hd8.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Sport TV 1",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/pt/sporttv1.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/pt/sporttv1.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Sport TV 2",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/pt/sporttv2.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/pt/sporttv2.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Sport TV 3",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/pt/sporttv3.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/pt/sporttv3.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Sport TV 4",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/pt/sporttv4.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/pt/sporttv4.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "Sport TV 5",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/pt/sporttv5.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/pt/sporttv5.php?OPT:adaptive=1",
           "isHost": true
         },
         {
           "name": "TV Reality",
           "image": "https://cdn.icon-icons.com/icons2/259/PNG/128/ic_tv_128_28803.png",
-          "url": "https://v3.sportsonline.sx/channels/pt/tvireality.php?OPT:adaptive=1",
+          "url": "https://v3.sportsonline.so/channels/pt/tvireality.php?OPT:adaptive=1",
           "isHost": true
         }
       ]
